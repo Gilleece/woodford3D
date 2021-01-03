@@ -1813,9 +1813,6 @@ input, select, textarea {
 		}
 
 /* Button */
-    .product-button {
-        color: #4ca07e;
-    };
 
 	input[type="submit"],
 	input[type="reset"],
